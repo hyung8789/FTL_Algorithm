@@ -30,4 +30,5 @@ FlashMem Simulator with FTL Algorithm(Sector Mapping Method, Block Mapping Metho
 - No limit on FlashMem Storage File creation capacity<br>
 
 <br></br>
+
 [![HitCount](http://hits.dwyl.io/hyung8789/FTL_Algorithm.svg)](http://hits.dwyl.io/hyung8789/FTL_Algorithm)
