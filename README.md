@@ -7,8 +7,8 @@ FlashMem Simulator with FTL Algorithm(Sector Mapping Method, Block Mapping Metho
 | Command | Action |
 |---|:---:|
 | init x or i x | Create x MB Storage File |
-| read LSN or r LSN | Read data at Physical Sector Num(PSN) Position |
-| write LSN data or w LSN data | Write data at Physical Sector Num(PSN) Position |
+| read LSN or r LSN | Read data at Logical Sector Num(LSN) Position |
+| write LSN data or w LSN data | Write data at Logical Sector Num(LSN) Position |
 | change | Change Mapping Method |
 | print | Print Mapping Table(LSN -> PSN or LBN -> PBN) |
 <br>
