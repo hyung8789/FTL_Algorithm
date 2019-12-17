@@ -28,5 +28,6 @@ FlashMem Simulator with FTL Algorithm(Sector Mapping Method, Block Mapping Metho
 
 - Simulator that creates flash memory, reads data in physical sectors, inputs data, and erases data in blocks
 - No limit on FlashMem Storage File creation capacity<br>
+
 <br></br>
 [![HitCount](http://hits.dwyl.io/hyung8789/FTL_Algorithm.svg)](http://hits.dwyl.io/hyung8789/FTL_Algorithm)
