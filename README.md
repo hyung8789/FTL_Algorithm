@@ -13,6 +13,7 @@ FlashMem Simulator with FTL Algorithm(Sector Mapping Method, Block Mapping Metho
 <br></br>
 
 <strong>< Normal Mode (with not use Any Mapping Method) Command List ></strong>
+  
 | Command | Action |
 |---|:---:|
 | init x or i x | Create x MB Storage File |
