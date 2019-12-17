@@ -10,6 +10,7 @@ FlashMem Simulator with FTL Algorithm(Sector Mapping Method, Block Mapping Metho
 | write LSN data or w LSN data | Write data at Logical Sector Num(LSN) Position |
 | change | Change Mapping Method |
 | print | Print Mapping Table(LSN -> PSN or LBN -> PBN) |
+
 <br></br>
 
 <strong>< Normal Mode (with not use Any Mapping Method) Command List ></strong>
@@ -21,6 +22,7 @@ FlashMem Simulator with FTL Algorithm(Sector Mapping Method, Block Mapping Metho
 | write PSN data or w PSN data | Write data at Physical Sector Num(PSN) Position |
 | erase PBN or e PBN | Erase data at Physical Block Num(PBN) Position |
 | change | Change Mapping Method |
+
 <br></br>
 
 
